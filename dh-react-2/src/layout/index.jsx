@@ -1,7 +1,7 @@
 import Footer from '../components/Footer';
 import Header from '../components/Header';
 import styles from './MainLayout.module.css';
-import {Container} from "react-bootstrap"
+import {Container} from 'react-bootstrap'
 import PropTypes from 'prop-types'
 
 

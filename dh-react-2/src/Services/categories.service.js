@@ -12,3 +12,5 @@ export const getCategoriesService = async () => {
         throw new Error("Error al obtener las categorias")
     }
 }
+
+
